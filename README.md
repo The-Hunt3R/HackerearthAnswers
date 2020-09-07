@@ -1,4 +1,4 @@
-# HackerearthAnswers
+# HackerEarth Answers (Input and Output)
 
 The answers of basic questions asked in Hackerearth (Beginner) in python 3.8. This includes the following questions :-
 
@@ -20,8 +20,6 @@ Given a DNA strand, its transcribed RNA strand is formed by replacing each nucle
     C --> G
     T --> A
     A --> U
-
-     
 
     Input: The input will always be a string of characters.
 
